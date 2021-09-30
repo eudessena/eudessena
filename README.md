@@ -2,7 +2,6 @@
 
 
 
-- 🔭 Atualmente trabalho com desenvolvimento back end.
 - 🌱 estudando Python, HTML, CSS e Javascript.
 <div>
   <a href="https://github.com/eudessena">
