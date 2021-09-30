@@ -1,4 +1,4 @@
-### Olá eu sou o Eudes Sena! seja muito bem vindo ao meu perfil.
+### Olá, sou o Eudes Sena! seja muito bem vindo ao meu perfil.
 
 
 
