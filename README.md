@@ -2,7 +2,8 @@
 
 
 
-- 🌱 estudando Python, HTML, CSS e Javascript.
+- 🌱 Atualmente cursando análise e desenvolvimento de sistemas no IFPE - instituto federal de pernambuco
+-  possuo conhecimentos em Python, HTML, CSS e Javascript.
 <div>
   <a href="https://github.com/eudessena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eudessena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
