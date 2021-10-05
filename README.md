@@ -2,7 +2,7 @@
 
 
 
-- Atualmente cursando análise e desenvolvimento de sistemas no IFPE - instituto federal de pernambuco
+- Cursando análise e desenvolvimento de sistemas, sou apaixonado por tecnologia e pelas diversas maneiras de otimizar processos no cotidiano das pessoas. Sou   bastante de dinâmico e gosto muito da ideia de trabalhar em equipe, trocar opiniões e conhecimento.  Acredito que o conhecimento é essencial para o desenvolvimento  pessoal de cada pessoa e aprender coisas novas todos os dias é o que me motiva.
 - possuo conhecimentos em Python, HTML, CSS e Javascript.
 <div>
   <a href="https://github.com/eudessena">
